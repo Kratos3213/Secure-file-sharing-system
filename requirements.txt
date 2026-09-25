@@ -1,0 +1,12 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+Werkzeug==3.0.3
+cryptography==42.0.5
+google-api-python-client==2.149.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+scikit-learn==1.5.0
+pandas==2.2.2
+PyMySQL==1.1.1
+python-dotenv==1.0.1
